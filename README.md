@@ -1,4 +1,4 @@
-# Prompt42
+# PromptHamster
 
 ## Description
 Prompt42 is an innovative prompt management tool designed to streamline the creation, organization, sharing, and reuse of prompts across various business use cases. Whether you're a photographer, lawyer, plumber, medical student, or any other professional, Prompt42 empowers you to efficiently manage your prompts and enhance productivity.
