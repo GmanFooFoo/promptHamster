@@ -1,7 +1,3 @@
-Sure, here's a detailed description for your Prompt42 project:
-
----
-
 # Prompt42
 
 ## Description
@@ -31,7 +27,3 @@ We welcome contributions from the community. Please read our contributing guidel
 
 ## License
 Prompt42 is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
-
----
-
-This description provides a comprehensive overview of the Prompt42 project, highlighting its key features and usage information.
