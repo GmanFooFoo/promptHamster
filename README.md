@@ -1,7 +1,7 @@
 # PromptHamster
 
 ## Description
-Prompt42 is an innovative prompt management tool designed to streamline the creation, organization, sharing, and reuse of prompts across various business use cases. Whether you're a photographer, lawyer, plumber, medical student, or any other professional, Prompt42 empowers you to efficiently manage your prompts and enhance productivity.
+promptHamster is an innovative prompt management tool designed to streamline the creation, organization, sharing, and reuse of prompts across various business use cases. Whether you're a photographer, lawyer, plumber, medical student, or any other professional, promptHamster empowers you to efficiently manage your prompts and enhance productivity.
 
 ## Features
 - **User Registration and Authentication**: Secure account creation and management to ensure personalized user experiences.
@@ -17,13 +17,13 @@ Prompt42 is an innovative prompt management tool designed to streamline the crea
 - **Marketing and Sales Strategy**: Strategic plans to effectively market and sell the product from beta to full version.
 
 ## Installation
-Instructions for installing Prompt42 will be provided upon release. Stay tuned for updates!
+Instructions for installing promptHamster will be provided upon release. Stay tuned for updates!
 
 ## Usage
-Prompt42 is designed to be intuitive and easy to use. Detailed usage guides and tutorials will be available to help you get started and make the most of all features.
+promptHamster is designed to be intuitive and easy to use. Detailed usage guides and tutorials will be available to help you get started and make the most of all features.
 
 ## Contributing
-We welcome contributions from the community. Please read our contributing guidelines to learn how you can get involved in improving Prompt42.
+We welcome contributions from the community. Please read our contributing guidelines to learn how you can get involved in improving promptHamster.
 
 ## License
-Prompt42 is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
+promptHamster is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
