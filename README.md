@@ -1,4 +1,4 @@
-# PromptHamster
+# promptHamster
 
 ## Description
 promptHamster is an innovative prompt management tool designed to streamline the creation, organization, sharing, and reuse of prompts across various business use cases. Whether you're a photographer, lawyer, plumber, medical student, or any other professional, promptHamster empowers you to efficiently manage your prompts and enhance productivity.
@@ -15,15 +15,3 @@ promptHamster is an innovative prompt management tool designed to streamline the
 - **Analytics and Reporting**: Comprehensive analytics and reporting tools to track usage and derive insights.
 - **Testing and Quality Assurance**: Rigorous testing protocols to ensure reliability and performance.
 - **Marketing and Sales Strategy**: Strategic plans to effectively market and sell the product from beta to full version.
-
-## Installation
-Instructions for installing promptHamster will be provided upon release. Stay tuned for updates!
-
-## Usage
-promptHamster is designed to be intuitive and easy to use. Detailed usage guides and tutorials will be available to help you get started and make the most of all features.
-
-## Contributing
-We welcome contributions from the community. Please read our contributing guidelines to learn how you can get involved in improving promptHamster.
-
-## License
-promptHamster is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
